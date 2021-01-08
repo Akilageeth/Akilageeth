@@ -6,7 +6,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-![1_zm5NLjdhGd3VVTA2u-xEPg](https://raw.githubusercontent.com/Akilageeth/stats/f8f0b27acb0859250f3091809483d4bb9e33844d/srs.svg)
+![1_zm5NLjdhGd3VVTA2u-xEPg](https://raw.githubusercontent.com/Akilageeth/stats/b115e867f2e166d35a5d5207fdc178239a20856d/srs.svg)
    
 ![1_zm5NLjdhGd3VVTA2u-xEPg](https://user-images.githubusercontent.com/44220596/104009562-4b672e00-51d1-11eb-99a8-e30281625fb1.gif)
 
