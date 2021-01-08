@@ -1,6 +1,6 @@
 ### Hello, I'm Akila Geethanjana 👋
 
-Here are some ideas to get you started:
+                  👦🏽 About Me
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
