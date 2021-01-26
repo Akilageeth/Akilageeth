@@ -1,4 +1,4 @@
-###                                Hello, I'm Akila Geethanjana 👋
+###                                Hello, I'm Geethanjana 👋
 
          
 - 🌱 I’m currently learning everything 🤣
