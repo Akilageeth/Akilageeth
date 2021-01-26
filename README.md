@@ -9,7 +9,7 @@
  ![1_zm5NLjdhGd3VVTA2u-xEPg](https://raw.githubusercontent.com/Akilageeth/stats/b115e867f2e166d35a5d5207fdc178239a20856d/srs.svg)
    
    
-![287b612d87648274e86c7e12124a2e66](https://user-images.githubusercontent.com/44220596/104844314-a4cc0d00-58f5-11eb-80dd-9f82d6005be5.gif)
+![get-to-work](https://user-images.githubusercontent.com/44220596/105857772-9de97c80-6010-11eb-886f-05228e46a9e9.gif)
 
 
 <h3 align="left">Languages and Tools:</h3>
