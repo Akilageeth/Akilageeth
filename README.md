@@ -1,4 +1,4 @@
-###                                Hello, I'm Geethanjana 👋![get-to-work](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+###                                Hello, I'm Geethanjana 👋
 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
