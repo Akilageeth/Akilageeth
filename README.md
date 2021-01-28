@@ -1,6 +1,6 @@
 ###                                Hello, I'm Geethanjana 👋
 
-- 👯 ⚡ Fun fact: Love to play games 
+- 👯
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
