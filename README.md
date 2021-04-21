@@ -2,7 +2,7 @@
 
 - 👯 I’m currently learning Everything
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / Traveling
+- ⚡ Fun fact: I love to draw and play violin / Traveling
 
  ![1_zm5NLjdhGd3VVTA2u-xEPg](https://raw.githubusercontent.com/Akilageeth/stats/b115e867f2e166d35a5d5207fdc178239a20856d/srs.svg) ![1_zm5NLjdhGd3VVTA2uxEPg](https://raw.githubusercontent.com/Akilageeth/stats/ed141dd57797ff8312ab1a58d6a6556ce5d14d35/Untitled.svg)
    
