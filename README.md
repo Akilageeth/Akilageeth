@@ -4,6 +4,31 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw and play violin.
 
+<div align="right">
+   
+![](https://visitor-badge.glitch.me/badge?page_id=Kobigan1223.Kobigan1223)
+
+![GitHub followers](https://img.shields.io/github/followers/Kobigan1223) ![GitHub User's stars](https://img.shields.io/github/stars/Kobigan1223)
+
+</div>
+
+<!--
+<div align="center">
+   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/style="color:blue;"> Hi there, I'm akila [He/Him] 👦 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
+   
+</div>
+-->
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I+am+Kobigan+K+👦+....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 👨🏽‍💻 Software Engineering Student NSBM | 💻 programmer | 🎓 Software Engineering Undergraduate at NSBM  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
+</div>
+
  ![1_zm5NLjdhGd3VVTA2u-xEPg](https://raw.githubusercontent.com/Akilageeth/stats/b115e867f2e166d35a5d5207fdc178239a20856d/srs.svg) ![1_zm5NLjdhGd3VVTA2uxEPg](https://raw.githubusercontent.com/Akilageeth/stats/ed141dd57797ff8312ab1a58d6a6556ce5d14d35/Untitled.svg)
    
    
