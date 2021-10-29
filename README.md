@@ -1,8 +1,3 @@
-###                                Hello, I'm Geethanjana 👋
-
-- 👯 I’m currently learning Everything.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to draw and play violin.
 
 <div align="right">
    
