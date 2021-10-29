@@ -15,8 +15,6 @@
   </a>
 </h1>
 
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 👨🏽‍💻 Software Engineering Student  | 🎓 Software Engineering Undergraduate  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
 </div>
 
  ![1_zm5NLjdhGd3VVTA2u-xEPg](https://raw.githubusercontent.com/Akilageeth/stats/b115e867f2e166d35a5d5207fdc178239a20856d/srs.svg) ![1_zm5NLjdhGd3VVTA2uxEPg](https://raw.githubusercontent.com/Akilageeth/stats/ed141dd57797ff8312ab1a58d6a6556ce5d14d35/Untitled.svg)
